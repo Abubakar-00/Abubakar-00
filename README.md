@@ -1,13 +1,44 @@
 <br clear="both">
 
-<h2 align="center">Ai Enthusiast | GEN Ai | Django</h2>
+<h2 align="center">Ai Infrastructure | GEN Ai | MLOPs</h2>
 
 ###
 
 <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*hSmwvKL1pgfHlPAb-WA_Rw.gif"  />
 
 ###
+<div align="left">
+  
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="30" alt="nvidia logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dvc/13ADC7" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubeflow/kubeflow-original.svg" height="30" alt="kubeflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="30" alt="argo logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/terraform/844FBA" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="30" alt="ansible logo"  />
+  <img width="12" />
 
+
+</div>
+
+
+<br>
 <div align="left">
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo"  />
   <img width="12" />
@@ -23,6 +54,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" height="30" alt="weightsandbiases logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="30" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="30" alt="langgraph logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ollama/000000" height="30" alt="langgraph logo"  />
+  <img width="12" />
+</div>
+
+
+<br>
+<div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
@@ -44,16 +89,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
 </div>
 
 ###
