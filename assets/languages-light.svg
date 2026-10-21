@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160" role="img" aria-label="Languages (notebooks excluded)">
+  <style>
+    .t { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #1f2328; }
+    .l { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #59636e; }
+    .v { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #1f2328; }
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="159" rx="8" fill="#ffffff" stroke="#d1d9e0"/>
+  <text x="22" y="34" class="t">Languages (notebooks excluded)</text>
+  <clipPath id="c"><rect x="22" y="52" width="376" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#c)">
+  <rect x="22.0" y="52" width="255.7" height="8" fill="#3572A5"/>
+  <rect x="277.7" y="52" width="86.0" height="8" fill="#f34b7d"/>
+  <rect x="363.7" y="52" width="31.8" height="8" fill="#e34c26"/>
+  <rect x="395.5" y="52" width="1.8" height="8" fill="#a52a22"/>
+  <rect x="397.3" y="52" width="0.7" height="8" fill="#f1e05a"/>
+  </g>
+  <circle cx="27" cy="84" r="5" fill="#3572A5"/>
+  <text x="38" y="88" class="l">Python <tspan class="v">68.0%</tspan></text>
+  <circle cx="223" cy="84" r="5" fill="#f34b7d"/>
+  <text x="234" y="88" class="l">C++ <tspan class="v">22.9%</tspan></text>
+  <circle cx="27" cy="108" r="5" fill="#e34c26"/>
+  <text x="38" y="112" class="l">HTML <tspan class="v">8.5%</tspan></text>
+  <circle cx="223" cy="108" r="5" fill="#a52a22"/>
+  <text x="234" y="112" class="l">Jinja <tspan class="v">0.5%</tspan></text>
+  <circle cx="27" cy="132" r="5" fill="#f1e05a"/>
+  <text x="38" y="136" class="l">JavaScript <tspan class="v">0.2%</tspan></text>
+</svg>
