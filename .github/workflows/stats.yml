@@ -1,0 +1,33 @@
+name: Update stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/stats.py
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate cards
+        env:
+          # STATS_TOKEN (a personal token) also counts private contributions;
+          # without it, only public activity is counted.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
+        run: python3 scripts/stats.py ${{ github.repository_owner }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet || git commit -m "Update stats" && git push
