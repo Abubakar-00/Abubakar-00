@@ -7,7 +7,7 @@
   <rect x="0.5" y="0.5" width="419" height="145" rx="8" fill="#0d1117" stroke="#30363d"/>
   <text x="22" y="34" class="t">GitHub activity</text>
   <text x="22" y="68" class="l">Contributions (last year)</text>
-  <text x="398" y="68" class="v" text-anchor="end">315</text>
+  <text x="398" y="68" class="v" text-anchor="end">39</text>
   <text x="22" y="94" class="l">Public repositories</text>
   <text x="398" y="94" class="v" text-anchor="end">24</text>
   <text x="22" y="120" class="l">On GitHub since</text>
